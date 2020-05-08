@@ -13,3 +13,4 @@ def reverse_each_word(string)
   return reverse_words
 end
 
+#self.split(/[?!.]\s+/).count
